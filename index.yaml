@@ -3,12 +3,12 @@ entries:
   kong34:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-15T01:45:30.734412435+07:00"
+    created: "2024-08-15T01:58:14.250719284+07:00"
     description: A Helm chart for Kubernetes
     digest: 705873fc766595569909e55fad227b152f5687fe82bf060aa4385a5e8bb1beb5
     name: kong34
     type: application
     urls:
-    - https://github.com/dimas-itg/kong3.4.3.11.c1.git/kong34-0.1.0.tgz
+    - https://github.com/dimas-itg/kong3.4.3.11.c1/kong34-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-15T01:45:30.733365824+07:00"
+generated: "2024-08-15T01:58:14.249778433+07:00"
